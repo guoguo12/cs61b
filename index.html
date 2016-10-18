@@ -4,7 +4,25 @@
   <title>CS 61B Exercises and Resources</title>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
   <style>
-  body { font-family: Helvetica, Arial, sans-serif; max-width: 800px; margin: 60px auto; line-height: 145%; }
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  max-width: 800px;
+  margin: 60px auto;
+  line-height: 145%;
+}
+
+h3 {
+  background-color: #E3F2FD;
+  padding: 5px;
+}
+
+h3:nth-of-type(1), h3:nth-of-type(2) {
+  background-color: #E0F2F1;
+}
+
+h3:nth-last-of-type(1), h3:nth-last-of-type(2), h3:nth-last-of-type(3) {
+  background-color: #FBE9E7;
+}
   </style>
   <base target="_blank">
 </head>
@@ -13,19 +31,24 @@
 
 <h2>By Allen Guo</h2>
 
-<p>Resources marked <strong>[BONUS]</strong> are interesting but not in scope.</p>
+<p><em>Last Updated: 18 October 2016</em></p>
+
+<h3>About Me</h3>
+
+<ul>
+<li>Email: <a href="mailto:allenguo@berkeley.edu">allenguo@berkeley.edu</a></li>
+<li>Office hours: TBD</li>
+</ul>
 
 <h3>General Resources</h3>
 
 <ul>
 <li>CS 61B course website: <a href="http://datastructur.es">link</a>.</li>
 <li>Exams from past semesters: <a href="https://hkn.eecs.berkeley.edu/exams/course/CS/61B">link</a>.</li>
-<li><em>Algorithms</em> textbook site: <a href="http://algs4.cs.princeton.edu/home/">link</a>.</li>
-<li>VisuAlgo algorithm visualizations: <a href="http://visualgo.net/">link</a>.</li>
-<li>Big-O Cheat Sheet: <a href="http://www.bigocheatsheet.com/">link</a>. Make sure you can explain <em>why</em> various time complexities are what they are.</li>
+<li><em>Algorithms</em> textbook site: <a href="http://algs4.cs.princeton.edu/home/">link</a>.
+<!-- * VisuAlgo algorithm visualizations: <a href="http://visualgo.net/">link</a>. -->
+<!-- * Big-O Cheat Sheet: <a href="http://www.bigocheatsheet.com/">link</a>. Make sure you can explain *why* various time complexities are what they are. --></li>
 </ul>
-
-<hr />
 
 <h3>Java</h3>
 
@@ -47,46 +70,81 @@
 <li>How to fix common Git problems: <a href="http://ohshitgit.com/">link</a>.</li>
 </ul>
 
-<p><em>More content will appear here as the course progresses.</em></p>
-
 <!--
 
-### Asymptotics
 
-* Common sums:
-    * Sum of numbers: 1 + 2 + 3 + 4 + ... + n = ϴ(n^2).
-    * Sum of squares: 1 + 4 + 9 + 16 + ... + n^2 = ϴ(n^3).
-    * Geometric sum: 1 + 2 + 4 + 8 + ... + n = ϴ(n).
-    * **[BONUS]** Sum of logs: log(1) + log(2) + log(3) + log(4) + ... + log(n) = log(n!) = ϴ(n log n).
-* Practice problems: [link](https://piazza.com/class/iiklg7j9ggf2vl?cid=4632) (see instructor answer).
 
-### BSTs
+md5-2cb2c92fd67586b79baf25f727d68f49
 
-* Write a method that, given a binary tree of integers, returns if the tree is a valid BST. (Solution: [link](http://www.geeksforgeeks.org/a-program-to-check-if-a-binary-tree-is-bst-or-not/).)
-* Write a method that, given a BST and two nodes in that BST, returns the lowest common ancestor of those two nodes, i.e., the common ancestor of the nodes farthest from the root. (Solution: [link](http://www.geeksforgeeks.org/lowest-common-ancestor-binary-tree-set-1/).)
 
-### 2-3 Trees (and LLRB Trees)
 
-* Diagram with examples of insertion: [link](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/2-3_insertion.svg/1024px-2-3_insertion.svg.png).
-* Visualizer: [link](https://www.cs.usfca.edu/~galles/visualization/BTree.html) (use "Max. Degree = 3" for 2-3 tree).
 
-### Heaps
 
-* Visualizer: [link](https://www.cs.usfca.edu/~galles/visualization/Heap.html).
-* **[BONUS]** Proof that bottom-up heapify takes linear time: [link](https://www.cs.umd.edu/~meesh/351/mount/lectures/lect14-heapsort-analysis-part.pdf) (see the "BuildHeap Analysis" section).
+md5-a1f4eb4bc51a99d5b5dbc36c7fce8206
 
-### Graphs
 
-* A* search walkthroughs: [link](https://youtu.be/g0MJRpquEOk).
-* **[BONUS]** CS 188 exam prep worksheet: [link](https://s3-us-west-2.amazonaws.com/cs188websitecontent/exam_prep/sp16-cs188-exam-prep-1.pdf). Treat "Uniform Cost Search" as a synonym for Dijkstra's algorithm. Ignore problems about "Greedy Search". Solutions are [here](https://s3-us-west-2.amazonaws.com/cs188websitecontent/exam_prep/sp16-cs188-exam-prep-1-solutions.pdf).
 
-### Dynamic Programming (DP)
 
-* Intro tutorial: [link](http://20bits.com/article/introduction-to-dynamic-programming). Focus on the first two sections&mdash;the knapsack problem is beyond the scope of this course. (If you're interested, take CS 170!)
-* Another intro: [link](https://gsourcecode.wordpress.com/2012/04/12/cutting-rods-introduction-to-dynamic-programming/). Try to solve the problem yourself before looking at the answer.
+
+md5-8c8e74fe5eafae5b679fb1680e05935a
+
+
+
+
+
+md5-1ccc268e7883853fed073293fc36d004
+
+
+
+
+
+md5-7cddfc10eaa895f8db6f3c63ffce5927
+
+
+
+
+
+md5-67312f02914180ca925e065513dc457f
+
+
+
+
+
+md5-da70a415743a5bf1592d473ca4516f0c
+
+
+
+
+
+md5-c725f7d59321f83996efa69f2e3f1b1a
+
+
+
+
+
+md5-79ea71558bfea57fcfb737a54712eefd
+
+
+
+
+
+md5-c253451aeb7b1ee709b4445c5aa8690a
+
+
+
+
+
+md5-5c2b26375d98a20f27b62c7b0d4bfe18
+
+
+
+
+
+md5-1a62e80fcc9c6d91757666b13289a5c4
+
+
+
 -->
-
-<hr />
 
 <h3>Inspiration and Wisdom</h3>
 
@@ -101,13 +159,10 @@
 
 <ul>
 <li>General internships FAQ from r/cscareerquestions: <a href="https://www.reddit.com/r/cscareerquestions/wiki/faq_internships">link</a>.</li>
-<li>For interview practice, I (like many others) recommend GLM's <em><a href="https://www.amazon.com/gp/product/0984782850/ref=pd_sbs_14_t_0?ie=UTF8&amp;psc=1&amp;refRID=5FQD69BDFX5C08415N34">Cracking the Coding Interview</a></em>.
-<ul>
-<li>There's no secret recipe&mdash;you have to actually do problems to get better. If you simply "read through" the book without attempting any problems, you're setting yourself up for failure.</li>
-</ul></li>
+<li>For interview practice, I recommend GLM's <em><a href="https://www.amazon.com/gp/product/0984782850/ref=pd_sbs_14_t_0?ie=UTF8&amp;psc=1&amp;refRID=5FQD69BDFX5C08415N34">Cracking the Coding Interview</a></em>.</li>
 <li>Tip: Keep a private list of interesting interview questions that you've encountered, as well as their solutions.
 <ul>
-<li>Review this list often, and add to it after every practice session.</li>
+<li>Review this list often. Add to it after every practice session.</li>
 <li>Before every real interview, go through the entire list and make sure you know everything on it.</li>
 </ul></li>
 <li>Coding interview tips: <a href="https://www.interviewcake.com/article/python/coding-interview-tips">link</a>.</li>

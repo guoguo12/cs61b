@@ -2,17 +2,20 @@
 
 ## By Allen Guo
 
-Resources marked **[BONUS]** are interesting but not in scope.
+*Last Updated: 18 October 2016*
+
+### About Me
+
+* Email: [allenguo@berkeley.edu](mailto:allenguo@berkeley.edu)
+* Office hours: TBD
 
 ### General Resources
 
 * CS 61B course website: [link](http://datastructur.es).
 * Exams from past semesters: [link](https://hkn.eecs.berkeley.edu/exams/course/CS/61B).
 * *Algorithms* textbook site: [link](http://algs4.cs.princeton.edu/home/).
-* VisuAlgo algorithm visualizations: [link](http://visualgo.net/).
-* Big-O Cheat Sheet: [link](http://www.bigocheatsheet.com/). Make sure you can explain *why* various time complexities are what they are.
-
-----
+<!-- * VisuAlgo algorithm visualizations: [link](http://visualgo.net/). -->
+<!-- * Big-O Cheat Sheet: [link](http://www.bigocheatsheet.com/). Make sure you can explain *why* various time complexities are what they are. -->
 
 ### Java
 
@@ -26,8 +29,6 @@ Resources marked **[BONUS]** are interesting but not in scope.
     * Clarification: Git is the name of the version control software. It's free and open source. GitHub is a company that hosts Git repositories (repos). You can use it as a central Git server for your projects.
 * How to fix common Git problems: [link](http://ohshitgit.com/).
 
-*More content will appear here as the course progresses.*
-
 <!--
 
 ### Asymptotics
@@ -36,7 +37,7 @@ Resources marked **[BONUS]** are interesting but not in scope.
     * Sum of numbers: 1 + 2 + 3 + 4 + ... + n = ϴ(n^2).
     * Sum of squares: 1 + 4 + 9 + 16 + ... + n^2 = ϴ(n^3).
     * Geometric sum: 1 + 2 + 4 + 8 + ... + n = ϴ(n).
-    * **[BONUS]** Sum of logs: log(1) + log(2) + log(3) + log(4) + ... + log(n) = log(n!) = ϴ(n log n).
+    * Sum of logs: log(1) + log(2) + log(3) + log(4) + ... + log(n) = log(n!) = ϴ(n log n).
 * Practice problems: [link](https://piazza.com/class/iiklg7j9ggf2vl?cid=4632) (see instructor answer).
 
 ### BSTs
@@ -52,20 +53,19 @@ Resources marked **[BONUS]** are interesting but not in scope.
 ### Heaps
 
 * Visualizer: [link](https://www.cs.usfca.edu/~galles/visualization/Heap.html).
-* **[BONUS]** Proof that bottom-up heapify takes linear time: [link](https://www.cs.umd.edu/~meesh/351/mount/lectures/lect14-heapsort-analysis-part.pdf) (see the "BuildHeap Analysis" section).
+* Proof that bottom-up heapify takes linear time: [link](https://www.cs.umd.edu/~meesh/351/mount/lectures/lect14-heapsort-analysis-part.pdf) (see the "BuildHeap Analysis" section).
 
 ### Graphs
 
 * A* search walkthroughs: [link](https://youtu.be/g0MJRpquEOk).
-* **[BONUS]** CS 188 exam prep worksheet: [link](https://s3-us-west-2.amazonaws.com/cs188websitecontent/exam_prep/sp16-cs188-exam-prep-1.pdf). Treat "Uniform Cost Search" as a synonym for Dijkstra's algorithm. Ignore problems about "Greedy Search". Solutions are [here](https://s3-us-west-2.amazonaws.com/cs188websitecontent/exam_prep/sp16-cs188-exam-prep-1-solutions.pdf).
+* CS 188 exam prep worksheet: [link](https://s3-us-west-2.amazonaws.com/cs188websitecontent/exam_prep/sp16-cs188-exam-prep-1.pdf). Treat "Uniform Cost Search" as a synonym for Dijkstra's algorithm. Ignore problems about "Greedy Search". Solutions are [here](https://s3-us-west-2.amazonaws.com/cs188websitecontent/exam_prep/sp16-cs188-exam-prep-1-solutions.pdf).
 
 ### Dynamic Programming (DP)
 
 * Intro tutorial: [link](http://20bits.com/article/introduction-to-dynamic-programming). Focus on the first two sections&mdash;the knapsack problem is beyond the scope of this course. (If you're interested, take CS 170!)
 * Another intro: [link](https://gsourcecode.wordpress.com/2012/04/12/cutting-rods-introduction-to-dynamic-programming/). Try to solve the problem yourself before looking at the answer.
--->
 
-----
+-->
 
 ### Inspiration and Wisdom
 
@@ -77,10 +77,9 @@ Resources marked **[BONUS]** are interesting but not in scope.
 ### Internships and Interviews
 
 * General internships FAQ from r/cscareerquestions: [link](https://www.reddit.com/r/cscareerquestions/wiki/faq_internships).
-* For interview practice, I (like many others) recommend GLM's *[Cracking the Coding Interview](https://www.amazon.com/gp/product/0984782850/ref=pd_sbs_14_t_0?ie=UTF8&psc=1&refRID=5FQD69BDFX5C08415N34)*.
-  * There's no secret recipe&mdash;you have to actually do problems to get better. If you simply "read through" the book without attempting any problems, you're setting yourself up for failure.
+* For interview practice, I recommend GLM's *[Cracking the Coding Interview](https://www.amazon.com/gp/product/0984782850/ref=pd_sbs_14_t_0?ie=UTF8&psc=1&refRID=5FQD69BDFX5C08415N34)*.
 * Tip: Keep a private list of interesting interview questions that you've encountered, as well as their solutions.
-  * Review this list often, and add to it after every practice session.
+  * Review this list often. Add to it after every practice session.
   * Before every real interview, go through the entire list and make sure you know everything on it.
 * Coding interview tips: [link](https://www.interviewcake.com/article/python/coding-interview-tips).
 * More coding questions: [link](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/).
