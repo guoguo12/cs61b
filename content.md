@@ -2,7 +2,7 @@
 
 ## By Allen Guo
 
-*Last Updated: 18 October 2016*
+*Last Updated: {{DATE}}*
 
 ### About Me
 
@@ -20,14 +20,18 @@
 ### Java
 
 * Java syntax practice problems: [link](http://codingbat.com/java).
+* Comprehensive Java syntax overview: [link](https://learnxinyminutes.com/docs/java/).
 * OpenJDK source, i.e., how Java built-in classes are implemented: [link](http://grepcode.com/snapshot/repository.grepcode.com/java/root/jdk/openjdk/8u40-b25/).
     * For example, here's how Java's real HashMap is implemented: [link](http://grepcode.com/file/repository.grepcode.com/java/root/jdk/openjdk/8u40-b25/java/util/HashMap.java?av=f).
+* ["Java is Pass-by-Value, Dammit!"](http://javadude.com/articles/passbyvalue.htm) by Scott Stanchfield.
 
 ### Git
 
 * GitHub's Git tutorial: [link](https://try.github.io).
     * Clarification: Git is the name of the version control software. It's free and open source. GitHub is a company that hosts Git repositories (repos). You can use it as a central Git server for your projects.
 * How to fix common Git problems: [link](http://ohshitgit.com/).
+* Make your shell Git-friendly with [autocompletion](https://git-scm.com/book/en/v1/Git-Basics-Tips-and-Tricks#Auto-Completion) and [prompt support](https://github.com/git/git/blob/master/contrib/completion/git-prompt.sh).
+  * I have custom Bash aliases for Git commands, which you can see in the "Git" section here: [link](https://github.com/guoguo12/guoguo12.github.io/blob/master/bash).
 
 <!--
 
@@ -78,7 +82,7 @@
 
 * General internships FAQ from r/cscareerquestions: [link](https://www.reddit.com/r/cscareerquestions/wiki/faq_internships).
 * For interview practice, I recommend GLM's *[Cracking the Coding Interview](https://www.amazon.com/gp/product/0984782850/ref=pd_sbs_14_t_0?ie=UTF8&psc=1&refRID=5FQD69BDFX5C08415N34)*.
-* Tip: Keep a private list of interesting interview questions that you've encountered, as well as their solutions.
+* Tip: Keep a list of interesting technical questions that you've encountered, including the solutions.
   * Review this list often. Add to it after every practice session.
   * Before every real interview, go through the entire list and make sure you know everything on it.
 * Coding interview tips: [link](https://www.interviewcake.com/article/python/coding-interview-tips).
