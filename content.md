@@ -37,6 +37,8 @@
 * Make your shell Git-friendly with [autocompletion](https://git-scm.com/book/en/v1/Git-Basics-Tips-and-Tricks#Auto-Completion) and [prompt support](https://github.com/git/git/blob/master/contrib/completion/git-prompt.sh).
   * I have custom Bash aliases for Git commands, which you can see in the "Git" section here: [link](https://github.com/guoguo12/guoguo12.github.io/blob/master/bash).
 
+### *// TODO: More content will appear here as the semester progresses.*
+
 <!--
 
 ### Asymptotics
@@ -81,7 +83,8 @@
 * ["Why Learning to Code Is So Damn Hard"](https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard) by Erik Trautman.
 * ["Advice for Computer Science College Students"](http://joelonsoftware.com/articles/CollegeAdvice.html) from Joel Spolsky, blogger extraordinaire and cofoudner of Stack Overflow (among other things).
 * ["The Curse of the Gifted"](http://www.vanadac.com/~dajhorn/novelties/ESR%20-%20Curse%20Of%20The%20Gifted.html) by Eric S. Raymond, in an email to Linus Torvalds, creator of Linux and Git.
-* Some random guy [asking a question](https://groups.google.com/forum/#!search/larry$20sanger$20java$201996/comp.lang.java/aSPAJO05LIU/ushhUIQQ-ogJ) about his Java web crawler that would eventually [worth billions](https://en.wikipedia.org/wiki/Google). Remember, asking questions is a good thing!
+* John DeNero talks about freedom, power, and self-worth: [link](https://www.youtube.com/watch?v=e_jH9GkahPQ&feature=youtu.be&t=33m33s).
+* Some random guy [asking a question](https://groups.google.com/forum/#!search/larry$20sanger$20java$201996/comp.lang.java/aSPAJO05LIU/ushhUIQQ-ogJ) about his Java web crawler that would one day [change the world](https://en.wikipedia.org/wiki/Google). Remember, asking questions is a good thing&mdash;never be afraid to ask questions!
 
 <!--
 ### Just for Fun
@@ -92,12 +95,14 @@
 ### Internships and Interviews
 
 * General internships FAQ from r/cscareerquestions: [link](https://www.reddit.com/r/cscareerquestions/wiki/faq_internships).
-* For interview practice, I recommend GLM's *[Cracking the Coding Interview](https://www.amazon.com/gp/product/0984782850/ref=pd_sbs_14_t_0?ie=UTF8&psc=1&refRID=5FQD69BDFX5C08415N34)*.
+* For interview practice, I recommend GLM's *[Cracking the Coding Interview](https://smile.amazon.com/gp/product/0984782850/ref=pd_sbs_14_t_0?ie=UTF8&psc=1&refRID=5FQD69BDFX5C08415N34)*.
 * Tip: Keep a list of interesting technical questions that you've encountered, including the solutions.
   * Review this list often. Add to it after every practice session.
   * Before every real interview, go through the entire list and make sure you know everything on it.
-* Coding interview tips: [link](https://www.interviewcake.com/article/python/coding-interview-tips).
-* More coding questions: [link](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/).
+* ["Hacking the Coding Interview"](http://www.restlessprogrammer.com/2013/09/hacking-coding-interview.html) by Philip Youssef.
+* Coding interview tips from Interview Cake: [link](https://www.interviewcake.com/article/python/coding-interview-tips).
+* A list of coding questions by Max Noy: [link](http://maxnoy.com/interviews.html).
+* An even bigger list by Program Creek: [link](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/).
 
 ### What Courses Do I Take Next?
 
