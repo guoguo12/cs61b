@@ -1,4 +1,4 @@
-# CS 61B Exercises and Resources
+# CS 61B Resources
 
 ## By Allen Guo
 
@@ -8,12 +8,16 @@
 
 * Email: [allenguo@berkeley.edu](mailto:allenguo@berkeley.edu)
 * Office hours: TBD
+* Anonymous feedback form: TBD
 
 ### General Resources
 
 * CS 61B course website: [link](http://datastructur.es).
 * Exams from past semesters: [link](https://hkn.eecs.berkeley.edu/exams/course/CS/61B).
 * *Algorithms* textbook site: [link](http://algs4.cs.princeton.edu/home/).
+* Resources pages by other TAs:
+  * From Spring 2016: [Sherdil Niyaz](http://sniyaz.weebly.com/cs61b.html) and [Sarah Kim](http://www.sarahjikim.com/cs61b.html).
+  * From this semester: TBD.
 <!-- * VisuAlgo algorithm visualizations: [link](http://visualgo.net/). -->
 <!-- * Big-O Cheat Sheet: [link](http://www.bigocheatsheet.com/). Make sure you can explain *why* various time complexities are what they are. -->
 
@@ -73,10 +77,17 @@
 
 ### Inspiration and Wisdom
 
-* ["Why Learning to Code Is So Damn Hard"](https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard) by Erik Trautman.
 * ["The Magician's Code"](http://thecodelesscode.com/case/195) from *The Codeless Code*.
+* ["Why Learning to Code Is So Damn Hard"](https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard) by Erik Trautman.
 * ["Advice for Computer Science College Students"](http://joelonsoftware.com/articles/CollegeAdvice.html) from Joel Spolsky, blogger extraordinaire and cofoudner of Stack Overflow (among other things).
+* ["The Curse of the Gifted"](http://www.vanadac.com/~dajhorn/novelties/ESR%20-%20Curse%20Of%20The%20Gifted.html) by Eric S. Raymond, in an email to Linus Torvalds, creator of Linux and Git.
 * Some random guy [asking a question](https://groups.google.com/forum/#!search/larry$20sanger$20java$201996/comp.lang.java/aSPAJO05LIU/ushhUIQQ-ogJ) about his Java web crawler that would eventually [worth billions](https://en.wikipedia.org/wiki/Google). Remember, asking questions is a good thing!
+
+<!--
+### Just for Fun
+* ["How a Programmer Reads Your Resume (Comic)"](http://stevehanov.ca/blog/resume_comic.png) by Steve Hanov.
+* ["A Brief, Incomplete, and Mostly Wrong History of Programming Languages"](https://thequickword.wordpress.com/2014/02/16/james-irys-history-of-programming-languages-illustrated-with-pictures-and-large-fonts/) (illustrated) by James Iry et al.
+-->
 
 ### Internships and Interviews
 
