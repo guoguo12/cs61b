@@ -9,6 +9,7 @@
 * Email: [allenguo@berkeley.edu](mailto:allenguo@berkeley.edu)
 * Office hours: TBD
 * Anonymous feedback form: TBD
+* What I look like: on a [good](1.jpg) [day](2.jpg) and on [other days](3.png)
 
 ### General Resources
 
@@ -32,23 +33,25 @@
 ### Git
 
 * GitHub's Git tutorial: [link](https://try.github.io).
-    * Clarification: Git is the name of the version control software. It's free and open source. GitHub is a company that hosts Git repositories (repos). You can use it as a central Git server for your projects.
+    * Git is the name of the version control software. It's free and open source. GitHub is a company that hosts Git repositories (repos). You can use it as a central Git server for your projects.
 * How to fix common Git problems: [link](http://ohshitgit.com/).
 * Make your shell Git-friendly with [autocompletion](https://git-scm.com/book/en/v1/Git-Basics-Tips-and-Tricks#Auto-Completion) and [prompt support](https://github.com/git/git/blob/master/contrib/completion/git-prompt.sh).
-  * I have custom Bash aliases for Git commands, which you can see in the "Git" section here: [link](https://github.com/guoguo12/guoguo12.github.io/blob/master/bash).
+    * I have custom Bash aliases for Git commands, which you can see in the "Git" section here: [link](https://github.com/guoguo12/guoguo12.github.io/blob/master/bash).
 
-### *// TODO: More content will appear here as the semester progresses.*
+### *Stay tuned! More content will appear here as the semester progresses.*
 
 <!--
 
 ### Asymptotics
 
+* The #1 confusing topic in asymptotics is best-case/worst-case and big-O/big-Theta.
 * Common sums:
-    * Sum of numbers: 1 + 2 + 3 + 4 + ... + n = ϴ(n^2).
-    * Sum of squares: 1 + 4 + 9 + 16 + ... + n^2 = ϴ(n^3).
-    * Geometric sum: 1 + 2 + 4 + 8 + ... + n = ϴ(n).
-    * Sum of logs: log(1) + log(2) + log(3) + log(4) + ... + log(n) = log(n!) = ϴ(n log n).
-* Practice problems: [link](https://piazza.com/class/iiklg7j9ggf2vl?cid=4632) (see instructor answer).
+    * Sum of numbers: 1 + 2 + 3 + 4 + ... + n = Theta(n^2).
+    * Sum of squares: 1 + 4 + 9 + 16 + ... + n^2 = Theta(n^3).
+    * Geometric sum: 1 + 2 + 4 + 8 + ... + n = Theta(n).
+* Uncommon sums:
+    * Sum of logs: log(1) + log(2) + log(3) + log(4) + ... + log(n) = log(n!) = Theta(n log n).
+    * Sum of subarray lengths: (n)(1) + (n-1)(2) + ... + (2)(n-1) + (1)(n) = Theta(n^3).
 
 ### BSTs
 
@@ -78,6 +81,7 @@
 -->
 
 ### Inspiration and Wisdom
+[![xkcd comic](http://berkeley-cs61as.github.io/static/elegant.png "Source: xkcd (CC-BY-NC)")](https://xkcd.com/297/)
 
 * ["The Magician's Code"](http://thecodelesscode.com/case/195) from *The Codeless Code*.
 * ["Why Learning to Code Is So Damn Hard"](https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard) by Erik Trautman.
@@ -95,7 +99,7 @@
 ### Internships and Interviews
 
 * General internships FAQ from r/cscareerquestions: [link](https://www.reddit.com/r/cscareerquestions/wiki/faq_internships).
-* For interview practice, I recommend GLM's *[Cracking the Coding Interview](https://smile.amazon.com/gp/product/0984782850/ref=pd_sbs_14_t_0?ie=UTF8&psc=1&refRID=5FQD69BDFX5C08415N34)*.
+* For interview practice, I (like everyone else) recommend *[Cracking the Coding Interview](https://smile.amazon.com/gp/product/0984782850/ref=pd_sbs_14_t_0?ie=UTF8&psc=1&refRID=5FQD69BDFX5C08415N34)*.
 * Tip: Keep a list of interesting technical questions that you've encountered, including the solutions.
   * Review this list often. Add to it after every practice session.
   * Before every real interview, go through the entire list and make sure you know everything on it.
@@ -105,9 +109,10 @@
 * An even bigger list by Program Creek: [link](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/).
 
 ### What Courses Do I Take Next?
+![CS 188 logo](https://people.eecs.berkeley.edu/~russell/classes/cs188/f14/images/cs188_welcome.png)
 
 * Crowdsourced advice from the CS Facebook group: [link](https://docs.google.com/document/d/1qgPEICPPCAI2T7On8gJ7kle8gaMivHu337ps4q_psdI/edit).
-* Directed graph of EE/CS courses: [link](https://hkn.eecs.berkeley.edu/courseguides).
+* HKN's directed graph of EE/CS courses: [link](https://hkn.eecs.berkeley.edu/courseguides).
 * Course advice for aspiring data scientists, by Khoa Tran: [link](https://kqdtran.github.io/so-i-heard-youre-an-aspiring-golden-bear-data-scient-ish/index.html).
 * If you can't make up your mind, I recommend CS 61C plus either CS 170 (harder) or CS 188 (easier).
   * This should help you identify your interests while preparing you for interviews and/or research.
