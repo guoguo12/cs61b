@@ -37,6 +37,7 @@
 * How to fix common Git problems: [link](http://ohshitgit.com/).
 * Make your shell Git-friendly with [autocompletion](https://git-scm.com/book/en/v1/Git-Basics-Tips-and-Tricks#Auto-Completion) and [prompt support](https://github.com/git/git/blob/master/contrib/completion/git-prompt.sh).
     * I have custom Bash aliases for Git commands, which you can see in the "Git" section here: [link](https://github.com/guoguo12/guoguo12.github.io/blob/master/bash).
+* ["A Hacker's Guide to Git"](https://wildlyinaccurate.com/a-hackers-guide-to-git/) by Joseph Wynn.
 
 ### *Stay tuned! More content will appear here as the semester progresses.*
 
