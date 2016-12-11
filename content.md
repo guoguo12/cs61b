@@ -25,7 +25,6 @@
 ### Java
 
 * Java syntax practice problems: [link](http://codingbat.com/java).
-* Comprehensive Java syntax overview: [link](https://learnxinyminutes.com/docs/java/).
 * OpenJDK source, i.e., how Java built-in classes are implemented: [link](http://grepcode.com/snapshot/repository.grepcode.com/java/root/jdk/openjdk/8u40-b25/).
     * For example, here's how Java's real HashMap is implemented: [link](http://grepcode.com/file/repository.grepcode.com/java/root/jdk/openjdk/8u40-b25/java/util/HashMap.java?av=f).
 * ["Java is Pass-by-Value, Dammit!"](http://javadude.com/articles/passbyvalue.htm) by Scott Stanchfield.
