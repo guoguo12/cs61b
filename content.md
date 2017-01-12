@@ -17,8 +17,8 @@
 * Exams from past semesters: [link](https://hkn.eecs.berkeley.edu/exams/course/CS/61B).
 * *Algorithms* textbook site: [link](http://algs4.cs.princeton.edu/home/).
 * Resources pages by other TAs:
-  * From Spring 2016: [Sherdil Niyaz](http://sniyaz.weebly.com/cs61b.html) and [Sarah Kim](http://www.sarahjikim.com/cs61b.html).
-  * From this semester: TBD.
+  * From Spring 2016: [Sarah Kim](http://www.sarahjikim.com/cs61b.html).
+  * From this semester: [Sherdil Niyaz](http://sniyaz.weebly.com/cs61b.html).
 <!-- * VisuAlgo algorithm visualizations: [link](http://visualgo.net/). -->
 <!-- * Big-O Cheat Sheet: [link](http://www.bigocheatsheet.com/). Make sure you can explain *why* various time complexities are what they are. -->
 
@@ -70,7 +70,7 @@
 
 ### Graphs
 
-* A* search walkthroughs: [link](https://youtu.be/g0MJRpquEOk).
+* A-star search walkthroughs: [link](https://youtu.be/g0MJRpquEOk).
 * CS 188 exam prep worksheet: [link](https://s3-us-west-2.amazonaws.com/cs188websitecontent/exam_prep/sp16-cs188-exam-prep-1.pdf). Treat "Uniform Cost Search" as a synonym for Dijkstra's algorithm. Ignore problems about "Greedy Search". Solutions are [here](https://s3-us-west-2.amazonaws.com/cs188websitecontent/exam_prep/sp16-cs188-exam-prep-1-solutions.pdf).
 
 ### Dynamic Programming (DP)
@@ -104,6 +104,7 @@
   * Review this list often. Add to it after every practice session.
   * Before every real interview, go through the entire list and make sure you know everything on it.
 * ["Hacking the Coding Interview"](http://www.restlessprogrammer.com/2013/09/hacking-coding-interview.html) by Philip Youssef.
+* ["A Brief Guide to Tech Internships"](http://alexeymk.com/a-brief-guide-to-tech-internships/) by Alexey Komissarouk.
 * Coding interview tips from Interview Cake: [link](https://www.interviewcake.com/article/python/coding-interview-tips).
 * A list of coding questions by Max Noy: [link](http://maxnoy.com/interviews.html).
 * An even bigger list by Program Creek: [link](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/).
