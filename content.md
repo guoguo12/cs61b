@@ -16,9 +16,10 @@
 * CS 61B course website: [link](http://datastructur.es).
 * Exams from past semesters: [link](https://hkn.eecs.berkeley.edu/exams/course/CS/61B).
 * *Algorithms* textbook site: [link](http://algs4.cs.princeton.edu/home/).
+<!--
 * Resources pages by other TAs:
   * From Spring 2016: [Sarah Kim](http://www.sarahjikim.com/cs61b.html).
-  * From this semester: [Sherdil Niyaz](http://sniyaz.weebly.com/cs61b.html).
+  * From this semester: [Sherdil Niyaz](http://sniyaz.weebly.com/cs61b.html).-->
 <!-- * VisuAlgo algorithm visualizations: [link](http://visualgo.net/). -->
 <!-- * Big-O Cheat Sheet: [link](http://www.bigocheatsheet.com/). Make sure you can explain *why* various time complexities are what they are. -->
 
