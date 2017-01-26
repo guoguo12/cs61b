@@ -7,7 +7,7 @@
 ### About Me
 
 * Email: [allenguo@berkeley.edu](mailto:allenguo@berkeley.edu)
-* Office hours: 12-2pm @ 109 Morgan
+* Office hours: Wednesdays 12-2pm @ 109 Morgan
 * Anonymous feedback form: [link](https://docs.google.com/forms/d/e/1FAIpQLSfeahd-Mjg09o-I0IcY_J5a21RgTkSWCorfJZWJ-hLNuXxqWA/viewform).
 * What I look like: [link](me.jpg) (1.2 MB).
 
