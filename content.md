@@ -4,6 +4,8 @@
 
 *Last Updated: {{DATE}}*
 
+**Attendance form: [link](https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSeZ9GSZUEAZIe5Vy_WkHoN-ycWTUP-M9dkUbhQyYh2HBdWmdw/viewform).**
+
 ### About Me
 
 * Email: [allenguo@berkeley.edu](mailto:allenguo@berkeley.edu)
