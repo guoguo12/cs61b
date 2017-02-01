@@ -89,7 +89,7 @@
 * ["The Magician's Code"](http://thecodelesscode.com/case/195) from *The Codeless Code*.
 * ["Why Learning to Code Is So Damn Hard"](https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard) by Erik Trautman.
 * ["Advice for Computer Science College Students"](http://joelonsoftware.com/articles/CollegeAdvice.html) from Joel Spolsky, blogger extraordinaire and cofoudner of Stack Overflow (among other things).
-* ["The Curse of the Gifted"](http://www.vanadac.com/~dajhorn/novelties/ESR%20-%20Curse%20Of%20The%20Gifted.html) by Eric S. Raymond, in an email to Linus Torvalds, creator of Linux and Git.
+* ["The Curse of the Gifted"](https://lwn.net/2000/0824/a/esr-sharing.php3) by Eric S. Raymond, in an email to Linus Torvalds, creator of Linux and Git.
 * ["How To Be Effective"](http://www.pgbovine.net/productivity-tips.htm) by Philip J. Guo (no relation).
 * John DeNero talks about freedom, power, and self-worth: [link](https://www.youtube.com/watch?v=e_jH9GkahPQ&feature=youtu.be&t=33m33s).
 * Some random guy [asking a question](https://groups.google.com/forum/#!search/larry$20sanger$20java$201996/comp.lang.java/aSPAJO05LIU/ushhUIQQ-ogJ) (in 1996) about his Java web crawler, which would eventually become [kind of a big deal](https://en.wikipedia.org/wiki/Google). Don't be afraid to ask questions!
