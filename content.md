@@ -4,6 +4,8 @@
 
 *Last Updated: {{DATE}}*
 
+**Lab 5 attendance form: [link](https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSdatjA_E79aoWtaZk18iPj8O-cLNukKl5A1mvReZDQ0iVq1RA/viewform).**
+
 **Project 2 in-lab partner-matching form: [link](https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSdwCSx5EdtWmYlYNOq-uIlJulxX1yWjD8NOgRdzOWb-snMx7Q/viewform).**
 
 ### About Me
