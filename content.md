@@ -42,9 +42,6 @@
     * I have custom Bash aliases for Git commands, which you can see in the "Git" section here: [link](https://github.com/guoguo12/guoguo12.github.io/blob/master/bash).
 * ["A Hacker's Guide to Git"](https://wildlyinaccurate.com/a-hackers-guide-to-git/) by Joseph Wynn.
 
-### *Stay tuned! More content will appear here as the semester progresses.*
-
-<!--
 
 ### Asymptotics
 
@@ -56,6 +53,10 @@
 * Uncommon sums:
     * Sum of logs: log(1) + log(2) + log(3) + log(4) + ... + log(n) = log(n!) = Theta(n log n).
     * Sum of subarray lengths: (n)(1) + (n-1)(2) + ... + (2)(n-1) + (1)(n) = Theta(n^3).
+
+### *Stay tuned! More content will appear here as the semester progresses.*
+
+<!--
 
 ### BSTs
 
