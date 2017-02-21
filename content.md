@@ -4,6 +4,8 @@
 
 *Last Updated: {{DATE}}*
 
+**Discussion attendance form: [link](https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSfpXqhm6YTvYOWfB5-MwuNXdunuvYlousWav7Ddws_3iLf8Gg/viewform).**
+
 ### About Me
 
 * Email: [allenguo@berkeley.edu](mailto:allenguo@berkeley.edu)
