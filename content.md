@@ -4,7 +4,7 @@
 
 *Last Updated: {{DATE}}*
 
-**Lab attendance form: [link](https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLScmIDlazBYxj79hv41fcwalnmjKXpfRj_94PH3pBbPJyLLaFg/viewform).**
+**Discussion attendance form: [link](https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLScZfBZ2TGmKfsPTAcPmkdIGlkhBqn7j1I_Ot89PyHivugNGlg/viewform).**
 
 ### About Me
 
