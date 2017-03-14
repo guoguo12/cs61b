@@ -55,9 +55,6 @@
     * Sum of subarray lengths: (n)(1) + (n-1)(2) + ... + (2)(n-1) + (1)(n) = Theta(n^3).
 
 ### *Stay tuned! More content will appear here as the semester progresses.*
-
-<!--
-
 ### BSTs
 
 * Write a method that, given a binary tree of integers, returns if the tree is a valid BST. (Solution: [link](http://www.geeksforgeeks.org/a-program-to-check-if-a-binary-tree-is-bst-or-not/).)
