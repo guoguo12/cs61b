@@ -54,7 +54,6 @@
     * Sum of logs: log(1) + log(2) + log(3) + log(4) + ... + log(n) = log(n!) = Theta(n log n).
     * Sum of subarray lengths: (n)(1) + (n-1)(2) + ... + (2)(n-1) + (1)(n) = Theta(n^3).
 
-### *Stay tuned! More content will appear here as the semester progresses.*
 ### BSTs
 
 * Write a method that, given a binary tree of integers, returns if the tree is a valid BST. (Solution: [link](http://www.geeksforgeeks.org/a-program-to-check-if-a-binary-tree-is-bst-or-not/).)
@@ -79,8 +78,6 @@
 
 * Intro tutorial: [link](http://20bits.com/article/introduction-to-dynamic-programming). Focus on the first two sections&mdash;the knapsack problem is beyond the scope of this course. (If you're interested, take CS 170!)
 * Another intro: [link](https://gsourcecode.wordpress.com/2012/04/12/cutting-rods-introduction-to-dynamic-programming/). Try to solve the problem yourself before looking at the answer.
-
--->
 
 ### Inspiration and Wisdom
 [![xkcd comic](http://berkeley-cs61as.github.io/static/elegant.png "Source: xkcd (CC-BY-NC)")](https://xkcd.com/297/)
