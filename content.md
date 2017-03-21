@@ -4,7 +4,7 @@
 
 *Last Updated: {{DATE}}*
 
-**Discussion attendance form: [link](https://docs.google.com/a/berkeley.edu/forms/d/1SSz3HLIqYMdHYmssN9nEgL_Rnmip31Knn9bp5-pT0kA/edit).**
+**Discussion attendance form: [link](https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLScTWFtznihc7v4nktUFI1peGtnYFI5HYBEOA6O8f7WqK-3ILg/viewform).**
 
 ### About Me
 
