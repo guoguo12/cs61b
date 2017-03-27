@@ -99,12 +99,15 @@
 ### Internships and Interviews
 
 * General internships FAQ from r/cscareerquestions: [link](https://www.reddit.com/r/cscareerquestions/wiki/faq_internships).
+* What your resume should look like: [link](https://www.reddit.com/r/cscareerquestions/comments/25u0eo/could_we_create_a_basic_undergrad_resume/chktg4y/).
 * For interview practice, I (like everyone else) recommend *[Cracking the Coding Interview](https://smile.amazon.com/gp/product/0984782850/ref=pd_sbs_14_t_0?ie=UTF8&psc=1&refRID=5FQD69BDFX5C08415N34)*.
+  * Don't forget: practice [doesn't make perfect](https://www.corneredcat.com/article/practice-time/practice-doesnt-make-perfect/).
 * Tip: Keep a list of interesting technical questions that you've encountered, including the solutions.
   * Review this list often. Add to it after every practice session.
   * Before every real interview, go through the entire list and make sure you know everything on it.
 * ["Hacking the Coding Interview"](http://www.restlessprogrammer.com/2013/09/hacking-coding-interview.html) by Philip Youssef.
 * ["A Brief Guide to Tech Internships"](http://alexeymk.com/a-brief-guide-to-tech-internships/) by Alexey Komissarouk.
+  * Except don't wait until winter break to start applying. Lots of positions at popular SV companies fill up by the end of fall semester.
 * Coding interview tips from Interview Cake: [link](https://www.interviewcake.com/article/python/coding-interview-tips).
 * A list of coding questions by Max Noy: [link](http://maxnoy.com/interviews.html).
 * An even bigger list by Program Creek: [link](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/).
@@ -117,3 +120,7 @@
 * Course advice for aspiring data scientists, by Khoa Tran: [link](https://kqdtran.github.io/so-i-heard-youre-an-aspiring-golden-bear-data-scient-ish/index.html).
 * If you can't make up your mind, I recommend CS 61C plus either CS 170 (harder) or CS 188 (easier).
   * This should help you identify your interests while preparing you for interviews and/or research.
+
+### I Still Have Questions!
+
+Don't hesitate to email me ([allenguo@berkeley.edu](mailto:allenguo@berkeley.edu)).
