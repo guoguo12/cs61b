@@ -4,7 +4,7 @@
 
 *Last Updated: {{DATE}}*
 
-**Discussion attendance form: [link](https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSdSa2wcKoh6KLJfnOjvRugC9GA2RvBz66EC45aSwUPT3a1EqA/viewform).**
+**Discussion attendance form: [link](https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLScNZC4xTcbHjuuQEDm768PqsC44btDbCXeWvO-dtyz54RcxEA/viewform).**
 
 ### About Me
 
@@ -115,6 +115,7 @@
 ### What Courses Do I Take Next?
 ![CS 188 logo](https://people.eecs.berkeley.edu/~russell/classes/cs188/f14/images/cs188_welcome.png)
 
+* CS draft schedule (i.e., who's teaching what): [link](https://www2.eecs.berkeley.edu/Scheduling/CS/schedule-draft.html).
 * Crowdsourced advice from the CS Facebook group: [link](https://docs.google.com/document/d/1qgPEICPPCAI2T7On8gJ7kle8gaMivHu337ps4q_psdI/edit).
 * HKN's directed graph of EE/CS courses: [link](https://hkn.eecs.berkeley.edu/courseguides).
 * Course advice for aspiring data scientists, by Khoa Tran: [link](https://kqdtran.github.io/so-i-heard-youre-an-aspiring-golden-bear-data-scient-ish/index.html).
