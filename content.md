@@ -111,6 +111,7 @@
 * Coding interview tips from Interview Cake: [link](https://www.interviewcake.com/article/python/coding-interview-tips).
 * A list of coding questions by Max Noy: [link](http://maxnoy.com/interviews.html).
 * An even bigger list by Program Creek: [link](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/).
+* A still bigger list by Vivek Srivastava: [link](https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions).
 
 ### What Courses Do I Take Next?
 ![CS 188 logo](https://people.eecs.berkeley.edu/~russell/classes/cs188/f14/images/cs188_welcome.png)
