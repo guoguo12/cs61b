@@ -6,6 +6,8 @@
 
 **Discussion attendance form: [link](https://docs.google.com/a/berkeley.edu/forms/d/1u5O1P66uppuCZE6tU_DUY8KtVKsikJj9IWMjCOjXviE/edit).**
 
+**Some review questions: [link](https://docs.google.com/document/d/1JP44IkTnZRM7T_2UtvI3Hrn6vSmb1WCzMjsS1p3nToI/edit?usp=sharing).**
+
 ### About Me
 
 * Email: [allenguo@berkeley.edu](mailto:allenguo@berkeley.edu)
