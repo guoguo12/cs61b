@@ -45,7 +45,14 @@
 
 ### Asymptotics
 
-* The #1 confusing topic in asymptotics is best-case/worst-case and big-O/big-Theta.
+* The single most confusing topic in asymptotics is the difference between best-case/worst-case and big-O/Theta/Omega.
+    * Big-O/Theta/Omega describes the runtime of an algorithm in one or multiple cases. Best-case/worst-case describes a particular *input* case for an algorithm.
+    * Here's an example: "The worst-case runtime for quicksort is Theta(n^2)."
+        * Notice how "worst-case" describes the *input*. For example, for quicksort where the first element is chosen as the pivot, the worst-case input is an already-sorted list.
+    * What's confusing is that I could also say, "The runtime for quicksort is O(n^2)."
+        * This is a more general statement: I'm implying that this statement is true for *all* cases/inputs.
+        * Notice that this does *not* imply that the worst-case runtime of quicksort is Theta(n^2) (why not?).
+* You can't perform asymptotic analysis just by blindly following rules like "multiply for nested loops".
 * Common sums:
     * Sum of numbers: 1 + 2 + 3 + 4 + ... + n = Theta(n^2).
     * Sum of squares: 1 + 4 + 9 + 16 + ... + n^2 = Theta(n^3).
@@ -56,8 +63,9 @@
 
 ### BSTs
 
-* Write a method that, given a binary tree of integers, returns if the tree is a valid BST. (Solution: [link](http://www.geeksforgeeks.org/a-program-to-check-if-a-binary-tree-is-bst-or-not/).)
-* Write a method that, given a BST and two nodes in that BST, returns the lowest common ancestor of those two nodes, i.e., the common ancestor of the nodes farthest from the root. (Solution: [link](http://www.geeksforgeeks.org/lowest-common-ancestor-binary-tree-set-1/).)
+* Some problems:
+  * Write a method that, given a binary tree of integers, returns if the tree is a valid BST. (Solution: [link](http://www.geeksforgeeks.org/a-program-to-check-if-a-binary-tree-is-bst-or-not/).)
+  * Write a method that, given a BST and two nodes in that BST, returns the lowest common ancestor of those two nodes, i.e., the common ancestor of the nodes farthest from the root. (Solution: [link](http://www.geeksforgeeks.org/lowest-common-ancestor-binary-tree-set-1/).)
 
 ### 2-3 Trees (and LLRB Trees)
 
@@ -66,18 +74,25 @@
 
 ### Heaps
 
+* Students tend to confuse heaps and BSTs. Do *you* know what the differences are?
 * Visualizer: [link](https://www.cs.usfca.edu/~galles/visualization/Heap.html).
 * Proof that bottom-up heapify takes linear time: [link](https://www.cs.umd.edu/~meesh/351/mount/lectures/lect14-heapsort-analysis-part.pdf) (see the "BuildHeap Analysis" section).
 
 ### Graphs
 
 * A-star search walkthroughs: [link](https://youtu.be/g0MJRpquEOk).
-* CS 188 exam prep worksheet: [link](https://s3-us-west-2.amazonaws.com/cs188websitecontent/exam_prep/sp16-cs188-exam-prep-1.pdf). Treat "Uniform Cost Search" as a synonym for Dijkstra's algorithm. Ignore problems about "Greedy Search". Solutions are [here](https://s3-us-west-2.amazonaws.com/cs188websitecontent/exam_prep/sp16-cs188-exam-prep-1-solutions.pdf).
+* CS 188 exam prep worksheet: [link](https://s3-us-west-2.amazonaws.com/cs188websitecontent/exam_prep/sp16-cs188-exam-prep-1.pdf). Treat "Uniform Cost Search" as a synonym for Dijkstra's algorithm. Ignore problems about "Greedy Search".
+    * Solutions are [here](https://s3-us-west-2.amazonaws.com/cs188websitecontent/exam_prep/sp16-cs188-exam-prep-1-solutions.pdf).
 
 ### Dynamic Programming (DP)
 
-* Intro tutorial: [link](http://20bits.com/article/introduction-to-dynamic-programming). Focus on the first two sections&mdash;the knapsack problem is beyond the scope of this course. (If you're interested, take CS 170!)
-* Another intro: [link](https://gsourcecode.wordpress.com/2012/04/12/cutting-rods-introduction-to-dynamic-programming/). Try to solve the problem yourself before looking at the answer.
+* DP isn't a specific algorithm, but rather a general problem-solving technique.
+    * So learning DP is less like learning Dijkstra's and more like learning recursion.
+* Don't be worried if DP is confusing at first.
+    * Instead of focusing on the *definition* of DP, go do practice problems. Then think about what those problems had in common. Then go back to the definition.
+* Intro tutorial: [link](http://20bits.com/article/introduction-to-dynamic-programming).
+* Another intro: [link](https://gsourcecode.wordpress.com/2012/04/12/cutting-rods-introduction-to-dynamic-programming/).
+    * Try to solve the problem yourself before looking at the answer.
 
 ### Inspiration and Wisdom
 [![xkcd comic](http://berkeley-cs61as.github.io/static/elegant.png "Source: xkcd (CC-BY-NC)")](https://xkcd.com/297/)
@@ -98,16 +113,16 @@
 
 ### Internships and Interviews
 
-* General internships FAQ from r/cscareerquestions: [link](https://www.reddit.com/r/cscareerquestions/wiki/faq_internships).
+* If you have any interest at all in working in software development in the future, I highly recommend you apply for internships this cycle, even if you don't feel ready.
+    * At the very least, you'll get a feel for what the process is like and what employers are looking for.
+* ["A Brief Guide to Tech Internships"](http://alexeymk.com/a-brief-guide-to-tech-internships/) by Alexey Komissarouk.
+    * Except don't wait until winter break to start applying. Lots of positions at popular companies fill up by the end of fall semester.
 * What your resume should look like: [link](https://www.reddit.com/r/cscareerquestions/comments/25u0eo/could_we_create_a_basic_undergrad_resume/chktg4y/).
 * For interview practice, I (like everyone else) recommend *[Cracking the Coding Interview](https://smile.amazon.com/gp/product/0984782850/ref=pd_sbs_14_t_0?ie=UTF8&psc=1&refRID=5FQD69BDFX5C08415N34)*.
-  * Don't forget: practice [doesn't make perfect](https://www.corneredcat.com/article/practice-time/practice-doesnt-make-perfect/).
+    * Find a buddy, [reserve a library room](https://berkeley.libcal.com/) with a whiteboard, and take turns interviewing each other.
 * Tip: Keep a list of interesting technical questions that you've encountered, including the solutions.
-  * Review this list often. Add to it after every practice session.
-  * Before every real interview, go through the entire list and make sure you know everything on it.
-* ["Hacking the Coding Interview"](http://www.restlessprogrammer.com/2013/09/hacking-coding-interview.html) by Philip Youssef.
-* ["A Brief Guide to Tech Internships"](http://alexeymk.com/a-brief-guide-to-tech-internships/) by Alexey Komissarouk.
-  * Except don't wait until winter break to start applying. Lots of positions at popular SV companies fill up by the end of fall semester.
+    * Review the list often and add to it after every practice session.
+    * Before every real interview, go through the entire list and make sure you know everything on it.
 * Coding interview tips from Interview Cake: [link](https://www.interviewcake.com/article/python/coding-interview-tips).
 * A list of coding questions by Max Noy: [link](http://maxnoy.com/interviews.html).
 * An even bigger list by Program Creek: [link](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/).
@@ -121,7 +136,7 @@
 * HKN's directed graph of EE/CS courses: [link](https://hkn.eecs.berkeley.edu/courseguides).
 * Course advice for aspiring data scientists, by Khoa Tran: [link](https://kqdtran.github.io/so-i-heard-youre-an-aspiring-golden-bear-data-scient-ish/index.html).
 * If you can't make up your mind, I recommend CS 61C plus either CS 170 (harder) or CS 188 (easier).
-  * This should help you identify your interests while preparing you for interviews and/or research.
+    * This should help you identify your interests while preparing you for interviews and/or research.
 
 ### I Still Have Questions!
 
