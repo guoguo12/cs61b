@@ -97,7 +97,6 @@
 [![xkcd comic](http://berkeley-cs61as.github.io/static/elegant.png "Source: xkcd (CC-BY-NC)")](https://xkcd.com/297/)
 
 * ["The Magician's Code"](http://thecodelesscode.com/case/195) from *The Codeless Code*.
-* ["Why Learning to Code Is So Damn Hard"](https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard) by Erik Trautman.
 * ["Advice for Computer Science College Students"](http://joelonsoftware.com/articles/CollegeAdvice.html) from Joel Spolsky, blogger extraordinaire and cofounder of Stack Overflow (among other things).
 * ["The Curse of the Gifted"](https://lwn.net/2000/0824/a/esr-sharing.php3) by Eric S. Raymond, in an email to Linus Torvalds, creator of Linux and Git.
 * ["How To Be Effective"](http://www.pgbovine.net/productivity-tips.htm) by Philip J. Guo (no relation).
