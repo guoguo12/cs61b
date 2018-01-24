@@ -11,7 +11,7 @@
 * Email: [allenguo@berkeley.edu](mailto:allenguo@berkeley.edu)
 * Anonymous feedback form: [link](https://docs.google.com/forms/d/e/1FAIpQLSfeahd-Mjg09o-I0IcY_J5a21RgTkSWCorfJZWJ-hLNuXxqWA/viewform).
 * What I look like: [link](me.jpg) (190 KB).
-* Pre-section playlist: TBA
+* Mailing list sign-up: [link](https://docs.google.com/forms/d/e/1FAIpQLSda4jJCYY7RaAZnCnloppIEiwR7uk1NCyCoeC9C5FrQJCGHFQ/viewform).
 
 ### General Resources
 
