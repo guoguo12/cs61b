@@ -32,6 +32,7 @@
     * For example, here's how Java's real HashMap is implemented: [link](http://grepcode.com/file/repository.grepcode.com/java/root/jdk/openjdk/8u40-b25/java/util/HashMap.java?av=f).
 * ["Java is Pass-by-Value, Dammit!"](http://javadude.com/articles/passbyvalue.htm) by Scott Stanchfield.
 * A quick guide to method selection: [link](https://docs.google.com/presentation/d/1N8dhPhOEJMgT0SbJm2rywf1Bxp5iIyZ2hLos-DJ71SE/edit#slide=id.p).
+* How to use comments effectively: [link](testing.googleblog.com/2017/07/code-health-to-comment-or-not-to-comment.html?m=1).
 
 ### Git
 
