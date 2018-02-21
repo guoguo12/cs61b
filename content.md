@@ -96,7 +96,9 @@
     * Try to solve the problem yourself before looking at the answer.
 
 ### Inspiration and Wisdom
-[![xkcd comic](http://berkeley-cs61as.github.io/static/elegant.png "Source: xkcd (CC-BY-NC)")](https://xkcd.com/297/)
+<a href="https://xkcd.com/297/">
+![xkcd comic](http://berkeley-cs61as.github.io/static/elegant.png "Source: xkcd (CC-BY-NC)")
+</a>
 
 * ["The Magician's Code"](http://thecodelesscode.com/case/195) from *The Codeless Code*.
 * ["Advice for Computer Science College Students"](http://joelonsoftware.com/articles/CollegeAdvice.html) from Joel Spolsky, blogger extraordinaire and cofounder of Stack Overflow (among other things).
