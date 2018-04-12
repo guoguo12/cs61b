@@ -89,8 +89,8 @@
 
 * DP isn't a specific algorithm, but rather a general problem-solving technique.
     * So learning DP is less like learning Dijkstra's and more like learning recursion.
-* Don't be worried if DP is confusing at first.
-    * Instead of focusing on the *definition* of DP, go do practice problems. Then think about what those problems had in common. Then go back to the definition.
+* Don't worry if the definition of DP is confusing at first.
+    * Do practice problems. Then think about what those problems had in common. Then go back to the definition.
 * Intro tutorial: [link](http://20bits.com/article/introduction-to-dynamic-programming).
 * Another intro: [link](https://gsourcecode.wordpress.com/2012/04/12/cutting-rods-introduction-to-dynamic-programming/).
     * Try to solve the problem yourself before looking at the answer.
