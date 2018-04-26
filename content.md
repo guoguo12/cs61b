@@ -123,6 +123,7 @@
 * What your resume should look like: [link](https://www.reddit.com/r/cscareerquestions/comments/25u0eo/could_we_create_a_basic_undergrad_resume/chktg4y/).
 * For interview practice, I (like everyone else) recommend *[Cracking the Coding Interview](https://smile.amazon.com/gp/product/0984782850/ref=pd_sbs_14_t_0?ie=UTF8&psc=1&refRID=5FQD69BDFX5C08415N34)*.
     * Find a buddy, [reserve a library room](https://berkeley.libcal.com/) with a whiteboard, and take turns interviewing each other.
+    * Study the problem-solving flowchart from the book: [link](https://www.slideshare.net/gayle2/cracking-the-interview-skills-coding-soft-skills-product-management-handouts).
 * Tip: Keep a list of interesting technical questions that you've encountered, including the solutions.
     * Review the list often and add to it after every practice session.
     * Before every real interview, go through the entire list and make sure you know everything on it.
